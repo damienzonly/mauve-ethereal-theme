@@ -73,6 +73,10 @@ button {
     border: 1px solid var(--whithey-pink);
 }
 
+#files-dropper {
+    background-color: var(--bg);
+}
+
 #menu-panel {
     margin-bottom: 5px;
 }
